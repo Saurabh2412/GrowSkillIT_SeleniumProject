@@ -1,0 +1,5 @@
+19:31:00.892 [TestNG-PoolService-1] DEBUG stepDefinations.A_validateFilterFunctionalityStep - Bus price found: 584
+19:31:00.906 [TestNG-PoolService-1] DEBUG stepDefinations.A_validateFilterFunctionalityStep - Bus price found: 584
+19:31:00.916 [TestNG-PoolService-1] DEBUG stepDefinations.A_validateFilterFunctionalityStep - Bus price found: 606
+19:31:00.925 [TestNG-PoolService-1] DEBUG stepDefinations.A_validateFilterFunctionalityStep - Bus price found: 629
+19:31:00.934 [TestNG-PoolService-1] DEBUG stepDefinations.A_validateFilterFunctionalityStep - Bus price found: 806
